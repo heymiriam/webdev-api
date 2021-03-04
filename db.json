@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "_id": 0,
+      "comment": "Laboris ea cillum dolor nulla in."
+    },
+    {
+      "_id": 1,
+      "comment": "Pariatur occaecat ipsum do irure aute nulla eu exercitation voluptate tempor cupidatat."
+    },
+    {
+      "_id": 2,
+      "comment": "Ea eiusmod magna culpa laborum aliqua minim incididunt sint culpa reprehenderit aliquip."
+    },
+    {
+      "_id": 3,
+      "comment": "Velit cupidatat officia occaecat quis do reprehenderit dolor do."
+    },
+    {
+      "_id": 4,
+      "comment": "Ea incididunt irure excepteur sit."
+    },
+    {
+      "_id": 5,
+      "comment": "Id consequat consectetur sunt tempor excepteur consectetur Lorem labore aliquip reprehenderit ea."
+    },
+    {
+      "_id": 6,
+      "comment": "Esse est aliquip est excepteur nulla duis ullamco ex labore incididunt reprehenderit."
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
